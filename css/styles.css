@@ -6,9 +6,11 @@
 
 body {
     display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    justify-content: center;
+    height: 100vh;
 }
 
 h2 {
@@ -21,7 +23,6 @@ p{
 }
 
 .card {
-    margin-top: 6rem;
     text-align: center;
     background-color: #fff;
     display: flex;
@@ -72,6 +73,9 @@ p{
     color: hsl(228, 45%, 44%);
 }
 
-@media only screen and (max-width:375px){
-
+@media screen and (min-width:650px){
+    /* .card {
+        position: absolute;
+        top: 27%;
+    } */
 }
