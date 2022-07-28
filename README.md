@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/mobile-desktop-solution.png.png)
+![](./images/mobile-desktop-solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Xephna/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://xephna.github.io/qr-code-component-main/)
+- Solution URL: https://github.com/Xephna/qr-code-component-main
+- Live Site URL: https://xephna.github.io/qr-code-component-main
 
 ## My process
 
