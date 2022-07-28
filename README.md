@@ -52,6 +52,6 @@ Positions, flex, grid needs to be learnt in more detail in future projects.
 
 ## Author
 
-- Website - [Add your name here](work-in-progress)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Xephna)
-- Twitter - [@yourusername](work-in-progress)
+- Website - [work-in-progress](work-in-progress)
+- Frontend Mentor - [@Xephna](https://www.frontendmentor.io/profile/Xephna)
+- Twitter - [work-in-progress](work-in-progress)
